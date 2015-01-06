@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OnePressPrint</string>
+    <string name="action_settings">Settings</string>
+    <string name="blu_notfound_inlist">Bluetooth not found!</string>    
+    <string name="blu_notsetup">Bluetooth not setup!</string>
+    
+    <string name="init_text">init</string>
+    
+    <string name="start_text">Start</string>
+    <string name="cancel_text">Stop</string>
+    <string name="photo_alert">Photo Alert</string>
+</resources>
